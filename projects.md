@@ -4,13 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
 
-## Project Title 1
+# Computer Vision Final Project :camera: (May 2024)
 Description of Project 1.
 
-## Project Title 2
+# Verilog Microprocessor :floppy_disk: (December 2023)
 Description of Project 2.
 
-## Project Title 3
+# Artificial Robotic Origami Muscles :muscle: (December 2023)
 Description of Project 3.
+
+# Sleepy.py :sleeping: (September 2023)
+Description of Project 4. 
+
+# Princeton University Crossword :pencil: (December 2022)
+Description of Project 5. 
